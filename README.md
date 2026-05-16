@@ -1,6 +1,6 @@
 # Hey, I'm Om Vaja 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58A6FF&width=435&lines=ML+Engineer+in+training...;Data+Scientist+by+day%2C+Comedian+by+night...;Turning+data+into+decisions...;def+solve_world%3A+pass+%23+TODO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58A6FF&width=435&lines=ML+Engineer+in+training...;Exploring+AI+%26+Data+Science...;Turning+data+into+decisions...;def+solve_world%3A+pass+%23+TODO)](https://git.io/typing-svg)
 
 ---
 
@@ -9,7 +9,7 @@
 - 🎓 College student diving deep into **Data Science & Machine Learning**
 - 🤖 Building models that think — and occasionally roast people 😄
 - 🔍 Currently exploring: Neural Networks, Data Wrangling, Pandas chaos
-- 😂 Part-time comedian · Full-time bug chaser
+- 💡 Always curious · Always building
 
 ---
 
@@ -42,13 +42,6 @@
 
 ---
 
-## 😂 Daily Dose of Comedy
-
-> **Why do data scientists make bad comedians?**
-> *Because their jokes have too many outliers.* 📉😂
-
----
-
 ## 🤝 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -58,7 +51,7 @@
 ---
 
 <p align="center">
-  <i>"Data is the new comedy — you never know what plot twist comes next."</i><br/>
+  <i>"Data is not just numbers — it's the story waiting to be told."</i><br/>
   <b>— Om Vaja</b>
 </p>
 
