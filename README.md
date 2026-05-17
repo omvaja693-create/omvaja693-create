@@ -25,15 +25,14 @@
 
 ---
 
-## 🛠️ Projects
+## 🌱 Currently Learning
 
-| 🚀 Project | 📝 Description | 🔧 Tech |
-|---|---|---|
-| 🤖 **ML Price Predictor** | Predicts house prices using regression models | Python, Scikit-learn |
-| 📊 **Data Dashboard** | Interactive visualization of real-world datasets | Python, Pandas, Matplotlib |
-| 🧠 **Sentiment Analyzer** | Analyzes text sentiment using NLP techniques | Python, NLP |
+- 🧠 &nbsp;**Machine Learning** — Regression, Classification, Clustering
+- 📊 &nbsp;**Data Science** — Pandas, NumPy, Matplotlib, Seaborn
+- 🤖 &nbsp;**Deep Learning** — Neural Networks basics
+- 📈 &nbsp;**Statistics** — The backbone of everything ML
 
-> 🔨 More projects coming soon — currently building something awesome!
+> 🚀 Projects dropping soon — watch this space!
 
 ---
 
