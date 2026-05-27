@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 🎓 College student diving deep into **Data Science & Machine Learning**
-- 🤖 Building models that think — and occasionally roast people 😄
+- 🤖 Building models that think 
 - 🔍 Currently exploring: Neural Networks, Data Wrangling, Pandas chaos
 - 💡 Always curious · Always building
 
