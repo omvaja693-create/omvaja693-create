@@ -1,62 +1,58 @@
 # Hey, I'm Om Vaja 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58A6FF&width=435&lines=ML+Engineer+in+training...;Exploring+AI+%26+Data+Science...;Turning+data+into+decisions...;def+solve_world%3A+pass+%23+TODO)](https://git.io/typing-svg)
+**Aspiring Data Analyst | Python · SQL · Power BI · Statistics**
+BCA Student @ Vidhyadeep University, Surat, Gujarat (2024–2027)
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 College student diving deep into **Data Science & Machine Learning**
-- 🤖 Building models that think 
-- 🔍 Currently exploring: Neural Networks, Data Wrangling, Pandas chaos
-- 💡 Always curious · Always building
+- 📊 Data Analyst in training — I turn raw data into clear, decision-ready insights
+- 🛠️ Core toolkit: **SQL** for querying, **Power BI** for dashboards, **Python** for analysis, **Statistics** for the "why" behind the numbers
+- 🎯 Currently looking for a **Data Analyst Internship** — open to remote or Gujarat-based roles
+- 💡 Believer that a good dashboard tells a story a spreadsheet never could
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f7931a?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-13aab7?style=flat-square&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Featured Projects
 
-- 🧠 &nbsp;**Machine Learning** — Regression, Classification, Clustering
-- 📊 &nbsp;**Data Science** — Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 &nbsp;**Deep Learning** — Neural Networks basics
-- 📈 &nbsp;**Statistics** — The backbone of everything ML
+| Project | What it does | Stack |
+|---|---|---|
+| [E-Commerce Order Management System](https://github.com/omvaja693-create/E-Commerce_Order_Management_System.sql) | Database design + queries for order tracking, customer & sales analysis | SQL |
+| [University Course Management System](https://github.com/omvaja693-create/University_Course_Management_System.sql) | Relational schema + queries for student/course/enrollment data | SQL |
+| [Retail Sales & Data Analyzer](https://github.com/omvaja693-create/Retail_Sales_and_Data_Analyzer.py) | Sales trend analysis, cleaning, and visualization on retail data | Python, Pandas |
+| [Global Happiness Report Analysis](https://github.com/omvaja693-create/Global_Happiness_Report_Analysis) | Exploratory analysis of world happiness data — factors & correlations | Python, Pandas, Matplotlib |
 
-> 🚀 Projects dropping soon — watch this space!
+> 💬 Each repo includes the problem statement, approach, and key insight in its own README — check them out!
 
 ---
 
-## 🔥 Streak
+## 🌱 Currently Sharpening
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff"/>
-</p>
+- Advanced SQL (window functions, joins, query optimization)
+- Power BI (DAX, interactive dashboards)
+- Applied Statistics for data storytelling
 
 ---
 
 ## 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-vaja-35b1103a3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_iamvazi_/)
 
 ---
 
-<p align="center">
-  <i>"Data is not just numbers — it's the story waiting to be told."</i><br/>
-  <b>— Om Vaja</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views"/>
-</p>
+*"Data is not just numbers — it's the story waiting to be told."*
+**— Om Vaja**
